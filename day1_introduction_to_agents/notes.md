@@ -1,5 +1,9 @@
 # 🧠 Day 1 Notes — Introduction to Agents
 
+<img width="1541" height="833" alt="image" src="https://github.com/user-attachments/assets/9ae9893a-db6c-4d33-8068-3d4671073fa5" />
+
+
+
 ## Codelab 1: Build Your First Agent
 - Learned how to create a basic AI agent using **Gemini** and **Agent Development Kit (ADK)**.  
 - Explored how an agent takes actions, uses tools, and retrieves information (e.g., Google Search).  
